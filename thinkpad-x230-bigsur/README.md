@@ -1,5 +1,5 @@
 # EFI -- xxx
 
 ```
-https://github.com/Lunarixus/ThinkPadx230BigSur
+https://github.com/dungnt11/thinkpad-x230
 ```
